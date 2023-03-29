@@ -1,4 +1,4 @@
-👋 Hi, I’m Max
+👋 Hi, I’m Max;
 prog is pog
 
 <!---
